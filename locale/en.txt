@@ -1,0 +1,14 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_0E08C778_0101_BE46_4154_EEB587EB8790.label = dining  360.RGB_color.0000
+panorama_0ED29169_0101_D247_4102_99BD1B6C13B0.label = living 360.RGB_color.0000
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
